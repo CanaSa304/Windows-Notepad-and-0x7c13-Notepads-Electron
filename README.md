@@ -28,4 +28,4 @@ The project inherits from https://github.com/0x7c13/Notepads and has been refact
 
 社区软件的可删除性，可能根据社区政策的改变而变更。
 
-该项目继承自 https://github.com/0x7c13/Notepads，已经进行了重构和重新设计。感谢你的使用。
+该项目继承自0x7c13/Notepads，已经进行了重构和重新设计。感谢你的使用。
